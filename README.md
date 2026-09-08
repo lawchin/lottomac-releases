@@ -15,5 +15,6 @@ Source lives in the private `tecla_international` repository.
 
 | Build | File |
 |---|---|
+| 1.0.15 (`20260908-geoloc-1`) | `lottomac-1.0.15.apk` |
 | 1.0.14 (`20260901-printer-localhost`) | `lottomac-1.0.14.apk` |
 | 1.0.13 (`20260901-printer-text-frames`) | `lottomac-1.0.13.apk` |
